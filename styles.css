@@ -1,0 +1,55 @@
+*{
+    border:none;
+    margin:0%;
+}
+/* .container{
+    width:100vw;
+    height:100%;
+} */
+.navbar{
+    max-width:100vw;
+    background: linear-gradient( rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7) );
+    padding:2%;
+   
+}
+.navbar-1{
+    background-color: white;
+    color: black;
+    padding: 0.6% 1.5%;
+    width:50px;
+    text-align:center;
+    display: inline-block;
+    margin-left:8%;
+    
+}
+.navbar-2,.navbar-3,.navbar-4,.navbar-5{
+    display: inline-block;
+    margin-inline: 5%;
+    color: white;
+}
+.first{
+    margin-left:2%;
+    margin-top:2%;
+}
+.second{
+    margin-left: 2%;
+}
+.third{
+    margin-left:2%;
+}
+.four{
+    height: 500px;
+    background-color: black;
+    padding:2%;
+    margin-top: 2%;
+}
+.four-one{
+    display:inline-block;
+    color:aliceblue;
+    width:45%;
+}
+.four-two{
+    width:45%;
+    display:inline-block;
+    margin:1%;
+}
